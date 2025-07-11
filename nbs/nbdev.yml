@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ADIA-Structural-Break-Challenge"
+  site-url: "https://Algoplexity.github.io/ADIA-Structural-Break-Challenge"
+  description: "ADIA Structural Break Challenge - A new, clean start."
+  repo-branch: main
+  repo-url: "https://github.com/Algoplexity/ADIA-Structural-Break-Challenge"
